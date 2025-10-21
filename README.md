@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**Mr-Tahir0/Mr-Tahir0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Assalamu alaykum (peace be unto you) 👋 I'm Tahir  
+I'm a dedicated student(new) of software development, blending deep focus, faith, and consistency.  
+Currently following a 12-month roadmap combining **The Odin Project**, **FreeCodeCamp**, and **Coursera (Meta & IBM)**.  
+My goal: to build meaningful software that benefits others (and also to make some money).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧭 Current Learning Path
+- [The Odin Project](https://www.theodinproject.com) – full-stack fundamentals and projects  
+- [FreeCodeCamp](https://www.freecodecamp.org) – algorithms and practical exercises  
+- [Coursera: Meta Front-End & Back-End Developer Certificates](https://www.coursera.org/meta)  
+- [Coursera: IBM DevOps & Software Engineering Certificate](https://www.coursera.org/ibm)
+
+---
+
+### 💻 Focus Areas
+- **Front-end:** HTML, CSS, JavaScript, React  
+- **Back-end:** Python, Django, Node.js, Databases  
+- **DevOps:** Git, Docker, CI/CD, Cloud basics  
+- **Project Management:** Agile, collaboration, version control  
+
+---
+
+### 📚 Repositories
+- `tahir-roadmap` → My complete learning plan and progress  
+- `odin-foundations` → The Odin Project exercises and mini-projects  
+- `meta-certifications` → Coursera projects and documentation  
+- `personal-projects` → My independent projects and experiments  
+
+---
+
+### 📫 Connect
+I’m always open to connecting with developers and mentors, to tell me what my roadmap is lacking and how i could improve myself.
