@@ -25,8 +25,10 @@ My goal: to build meaningful software that benefits others (and also to make som
 ### 📚 Repositories
 - `tahir-roadmap` → My complete learning plan and progress  
 - `odin-foundations` → The Odin Project exercises and mini-projects  
-- `meta-certifications` → Coursera projects and documentation  
-- `Home lab` → My independent projects and experiments  
+- `meta-certifications` → Coursera projects and documentation
+- `freecodecamp'→ Complimentary Courses and Projects
+- `Home lab` → My independent projects and experiments
+
 
 ---
 
