@@ -1,5 +1,5 @@
 
-## Assalamu alaykum (peace be unto you) 👋 I'm Tahir  
+## Hey there👋 I'm Tahir  
 I'm a dedicated student(new) of software development, blending deep focus, faith, and consistency.  
 Currently following a 12-month roadmap combining **The Odin Project**, **FreeCodeCamp**, and **Coursera (Meta & IBM)**.  
 My goal: to build meaningful software that benefits others (and also to make some money).
