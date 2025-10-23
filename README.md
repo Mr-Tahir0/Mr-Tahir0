@@ -77,7 +77,7 @@ My goal: **to build meaningful software that benefits others — and to make mak
 
 | Repo | Description |
 |------|--------------|
-| [**tahir-roadmap**](https://github.com/yourusername/tahir-roadmap) | My 12-month journey to full-stack development |
+| [**Tahir-roadmap**](https://github.com/yourusername/Tahir-roadmap) | My 12-month journey to full-stack development |
 | [**The-Odin-Project**](https://github.com/yourusername/odin-foundations) | Foundations of front-end web development (The Odin Project) |
 | [**freecodecamp**](https://github.com/yourusername/freecodecamp) | Progress through FreeCodeCamp certifications |
 | [**meta-certifications**](https://github.com/yourusername/meta-certifications) | Projects from Meta Front-End & Back-End courses |
