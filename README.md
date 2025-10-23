@@ -73,7 +73,7 @@ My goal: **to build meaningful software that benefits myself and others — and 
 
 ---
 
-## 🌱 Current Focus
+## ✍️ Current Focus
 - Building a **consistent GitHub portfolio** with real projects  
 - Mastering **React** and **Node.js** before diving into DevOps  
 - Documenting my learning in public through commits and READMEs  
