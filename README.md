@@ -1,26 +1,17 @@
 ## Hey there👋 I'm Tahir
 
-I'm a dedicated student of software development, blending deep focus, consistency, and purpose.  
-Currently following a 12-month roadmap combining **The Odin Project**, **FreeCodeCamp**, and **Coursera** (*Meta* & *IBM* programs).  
-My goal: **to build meaningful software that benefits others — and to make make money obviously.**
+I'm a beginner student of software development and part-time Security Analyst, blending deep focus, consistency, and purpose.  
+Currently following a 12-month roadmap combining, **FreeCodeCamp**, and **Coursera** (*Meta* & *IBM* programs).  
+My goal: **to build meaningful software that benefits myself and others — and to make make money obviously.**
 
 ---
 
 ## 🗺️ My Learning Roadmap
 
 📘 **Current Path**
-- 🧱 [The Odin Project](https://www.theodinproject.com) — Foundations + Full-Stack JavaScript  
-- 🧩 [FreeCodeCamp](https://www.freecodecamp.org) — Responsive Web Design, JS, APIs  
+- 🧩 [FreeCodeCamp](https://www.freecodecamp.org) — Foundations + Full-Stack JavaScript, Web Design and APIs  
 - 🎓 [Meta Front-End & Back-End Certificates](https://www.coursera.org/meta)  
 - ⚙️ [IBM DevOps and Software Engineering Certificate](https://www.coursera.org/professional-certificates/devops-and-software-engineering)
-
-📆 **Focus Timeline**
-| Month | Learning Focus | Goal |
-|--------|----------------|------|
-| 1–3 | Odin Foundations + FreeCodeCamp basics | Build front-end fundamentals |
-| 4–6 | Meta Front-End | React and UI design |
-| 7–9 | Meta Back-End | Node.js, APIs, Databases |
-| 10–12 | IBM DevOps | CI/CD, Cloud, Deployment |
 
 ---
 
@@ -77,10 +68,7 @@ My goal: **to build meaningful software that benefits others — and to make mak
 
 | Repo | Description |
 |------|--------------|
-| [**Tahir-Roadmap**](https://github.com/yourusername/Tahir-Roadmap) | My 12-month journey to full-stack development |
-| [**The-Odin-Project**](https://github.com/yourusername/odin-foundations) | Foundations of front-end web development (The Odin Project) |
-| [**freecodecamp**](https://github.com/yourusername/freecodecamp) | Progress through FreeCodeCamp certifications |
-| [**meta-certifications**](https://github.com/yourusername/meta-certifications) | Projects from Meta Front-End & Back-End courses |
+| [**freecodecamp-projects**](https://github.com/yourusername/freecodecamp) | Progress through FreeCodeCamp certifications |
 | [**home-lab**](https://github.com/yourusername/home-lab) | Personal sandbox for building and testing real-world projects |
 
 ---
