@@ -2,7 +2,7 @@
 
 I'm a dedicated student of software development, blending deep focus, consistency, and purpose.  
 Currently following a 12-month roadmap combining **The Odin Project**, **FreeCodeCamp**, and **Coursera** (*Meta* & *IBM* programs).  
-My goal: **to build meaningful software that benefits others — and to make a living doing what I enjoy.**
+My goal: **to build meaningful software that benefits others — and to make make money obviously.**
 
 ---
 
