@@ -93,7 +93,7 @@ My goal: **to build meaningful software that benefits others — and to make a l
 ---
 
 ## 📫 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/) *(add link once created)*  
+- 💼 [LinkedIn](www.linkedin.com/in/tahir-mustapha-tahir)  
 - 🌍 [Portfolio (coming soon)](https://github.com/yourusername)  
 
 ---
